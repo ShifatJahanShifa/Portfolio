@@ -1,7 +1,7 @@
 
 # Portfolio using HTML 
 
-I have made my Portfolio using HTML only. I may make it more effective, responsive,beautiful in looking in future using other technology. 
+I have made my Portfolio using HTML only. I may make it more effective, responsive,beautiful in looking in future using other technologies. 
 
 
 
